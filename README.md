@@ -21,7 +21,7 @@ With this project, we wanted to compare traditional machine learning methods wit
 
 ## Dataset
 The project employs a combined dataset:
-Reddit comments: https://www.kaggle.com/datasets/danofer/sarcasm
-Twitter data: https://www.kaggle.com/datasets/nikhiljohnk/tweets-with-sarcasm-and-irony?select=train.csv
+- Reddit comments: https://www.kaggle.com/datasets/danofer/sarcasm
+- Twitter data: https://www.kaggle.com/datasets/nikhiljohnk/tweets-with-sarcasm-and-irony?select=train.csv
 
 For a detailed explanation of methodologies, results, and insights, refer to the project report available in this repository.
